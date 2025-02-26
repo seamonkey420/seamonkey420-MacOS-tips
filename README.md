@@ -11,4 +11,5 @@ https://github.com/seamonkey420/seamonkey420-MacOS-tips/wiki
 
 Latest tips/tricks:  
 --Heroic launcher and EA App
+
 --Multi-Output Audio with Dual Monitors
